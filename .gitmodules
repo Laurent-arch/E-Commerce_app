@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Laurent-arch/E-Commerce_app.git
